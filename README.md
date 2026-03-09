@@ -81,7 +81,7 @@ Right now, I am focused on:
 
 - GitHub: [ERMI2112](https://github.com/ERMI2112)  
 - Email: *(add your email here)*  
-- LinkedIn: *(add your LinkedIn link when ready)*
+- LinkedIn: www.linkedin.com/in/ermiasdesta-it
 
 If you’re interested in collaborating, mentoring, or just talking about technology, feel free to reach out.  
 I’m always open to learning, sharing ideas, and building something useful together.
