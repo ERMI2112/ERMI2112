@@ -61,7 +61,7 @@ The curriculum is designed to produce graduates with strong practical skills in 
 | ITec2092 | Internet Programming I | 5 |
 | **Total** | | **30** |
 
-### Year III – Semester I (Current)
+### Year III – Semester I
 | Course Code | Course Title | CP |
 |-------------|--------------|----|
 | ITec3061 | System Analysis and Design | 5 |
@@ -72,7 +72,7 @@ The curriculum is designed to produce graduates with strong practical skills in 
 | ITec3031 | Computer Maintenance and Technical Support | 4 |
 | **Total** | | **31** |
 
-### Year III – Semester II
+### Year III – Semester II (Current)
 | Course Code | Course Title | CP |
 |-------------|--------------|----|
 | ITec3102 | Introduction to Distributed Systems | 5 |
