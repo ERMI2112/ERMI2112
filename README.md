@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ermias Desta Becho
 
-🎓 3rd-year Information Technology student at the University of Gondar  
+🎓 3rd-year final semester Information Technology student at the University of Gondar  
 💻 Aspiring software engineer | Backend & web development enthusiast  
 🌍 Based in Gondar, Ethiopia
 
