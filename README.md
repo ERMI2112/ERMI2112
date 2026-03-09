@@ -80,7 +80,7 @@ Right now, I am focused on:
 ## 📫 Contact
 
 - GitHub: [ERMI2112](https://github.com/ERMI2112)  
-- Email: *(add your email here)*  
+- Email: ermia926@gmail.com
 - LinkedIn: www.linkedin.com/in/ermiasdesta-it
 
 If you’re interested in collaborating, mentoring, or just talking about technology, feel free to reach out.  
