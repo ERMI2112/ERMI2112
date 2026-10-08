@@ -1,87 +1,83 @@
-# 👋 Hi, I'm Ermias Desta Becho
+<div align="center">
 
-🎓 3rd-year final semester Information Technology student at the University of Gondar  
-💻 Aspiring software engineer | Backend & web development enthusiast  
-🌍 Based in Gondar, Ethiopia
+# Ermias Desta Becho
 
-I am a **curious** and driven IT student who enjoys turning ideas into working software.  
-I like understanding how things work under the hood, from data structures and algorithms to databases, APIs, and deployment.
+**Full-stack Developer · Fourth-year IT Student**
 
----
+University of Gondar · Gondar, Ethiopia
 
-## 🧑‍💻 About Me
+Building practical web applications with a focus on clear user journeys, reliable backend logic, and secure access.
 
-- I enjoy learning about technology, coding, and building practical projects that solve real problems for real people.  
-- I have a solid foundation in programming fundamentals (OOP, data structures, basic algorithms) and web development.  
-- I’m comfortable reading documentation, debugging issues, and breaking down complex tasks into smaller, manageable steps.  
-- I actively look for opportunities to collaborate, learn from more experienced developers, and contribute to meaningful projects.
+[Projects](#selected-projects) · [LinkedIn](https://www.linkedin.com/in/ermiasdesta-it) · [Email](mailto:ermia926@gmail.com)
+
+</div>
 
 ---
 
-## 🛠️ Skills & Technologies
+## About me
 
-- **Languages:** Java, PHP, C++, JavaScript  
-- **Web Development:** HTML, CSS, PHP, MySQL (XAMPP stack)  
-- **Databases:** MySQL (schema design, queries, basic optimization)  
-- **Tools & Platforms:** Git & GitHub, Android Studio, JetBrains IDEs, XAMPP  
-- **Concepts:** Object-oriented programming, basic software engineering principles, system analysis and design  
-- **Interests:** Mobile app development (Android), distributed systems, IT project management, chatbot development
+I'm a fourth-year Information Technology student at the **University of Gondar**, developing web applications that address practical needs in tourism, hospitality, and community services.
 
----
+My main project is **EthioTour**, a tourism platform that brings discovery, booking, provider verification, and administrative workflows into one system. I'm also building the foundation for **EthioTour National**, a separate TypeScript project for a broader national platform.
 
-## 📂 Projects & Experience
+I enjoy working across the stack—from interfaces and database design to APIs, authorization, debugging, and testing. My interests include backend engineering, cybersecurity, and networking.
 
-> These are representative examples of the kind of work I do and what I’m interested in building going forward.
+## Technologies
 
-- **Web Applications (PHP & MySQL)**  
-  Built small web applications using PHP, MySQL, HTML, and CSS, focusing on clear structure, input validation, and basic CRUD functionality.  
-  I pay attention to clean folder organization, reusable components, and separating logic from presentation as much as possible.
+| Area | Technologies |
+| --- | --- |
+| Languages | JavaScript, TypeScript, PHP, Python, Java, C++ |
+| Frontend | React, Next.js, HTML5, CSS3, Bootstrap, Tailwind CSS |
+| Backend | Laravel, Node.js, NestJS, Express |
+| Data | MySQL, PostgreSQL, MongoDB, SQLite |
+| Development tools | Git, GitHub, VS Code, Docker, pnpm, XAMPP |
+| Testing & quality | PHPUnit, GitHub Actions, ESLint, Prettier |
+| Exploring | Keycloak, Redis, Meilisearch, MinIO, Wireshark, Cisco Packet Tracer |
 
-- **Java & C++ Coursework Projects**  
-  Implemented console and small GUI applications that apply OOP principles, including classes, inheritance, and basic design patterns.  
-  These projects helped me strengthen my problem-solving skills and understand how to structure code for readability and maintainability.
+## Selected projects
 
-- **Learning Projects & Experiments**  
-  Regularly explore new concepts such as REST APIs, authentication, and simple client–server communication.  
-  I like to experiment with small features, refactor code, and gradually improve the quality and clarity of my solutions.
+### [EthioTour — Tourism Services & Tour Guide Management](https://github.com/ERMI2112/ethio-tour)
 
-(If you want, I can later list specific repositories with links once we decide which ones best represent your skills.)
+A multi-portal tourism web application piloted for **Gondar, Ethiopia**. It brings together tourists, tour guides, hotels, restaurants, transport providers, event organizers, tourism officers, and administrators.
 
----
+- Destination discovery, interactive maps, booking workflows, and reviews.
+- Guide and business verification, role-based workspaces, and tourism governance.
+- Chapa payment integration with sandbox support, in-app notifications, and automated tests.
 
-## 📚 Current Focus
+**Stack:** Laravel · PHP · MySQL / SQLite · Blade · Bootstrap · Alpine.js · Leaflet · PHPUnit
 
-Right now, I am focused on:
+### [EthioTour National — National Tourism Platform](https://github.com/ERMI2112/ethio-tour-national)
 
-- Deepening my understanding of object-oriented design, clean code practices, and architecture.  
-- Building more complete end-to-end projects (from database design to UI) to strengthen my portfolio.  
-- Improving my problem-solving ability through coding challenges and structured practice.  
-- Learning the fundamentals of Android development and exploring how to connect mobile apps with backend services.
+A **separate project under active development**, building the foundation for a national tourism, booking, and governance platform. The current repository focuses on the monorepo, application boundaries, and local infrastructure.
 
----
+**Stack:** TypeScript · Next.js · NestJS · PostgreSQL · Keycloak · Redis · Docker
 
-## 🎯 Medium-Term Goals
+### [StaySync — Hotel & Guesthouse Management](https://github.com/ERMI2112/hotel-management-website)
 
-- Grow into a strong backend or full-stack developer with a solid understanding of software engineering fundamentals.  
-- Contribute to open-source projects on GitHub and collaborate with other developers worldwide.  
-- Gain real-world experience through internships, remote projects, or freelance work.  
-- Build a portfolio of well-documented projects that demonstrate clean code, good architecture, and real value.
+A full-stack hospitality management project with a React interface, a Node.js API, MongoDB storage, Telegram notifications, and PDF invoice generation.
 
----
+**Stack:** React · Vite · Tailwind CSS · Node.js · Express · MongoDB
 
-## 🤝 How I Work
+### [RuralHealth Sync — Offline-first Android Project](https://github.com/ERMI2112/RuralHealthSync-)
 
-- I value clear communication, honest feedback, and continuous improvement.  
-- I like to break problems into smaller tasks, iterate quickly, and refactor when I learn a better way.  
-- I am not afraid to say “I don’t know yet” and then put in the work to figure it out.
+An academic Android project for rural health workflows in Ethiopia. It stores patient records locally when offline and synchronizes them with a PHP/MySQL backend when connectivity returns.
 
----
+**Stack:** Kotlin · Room / SQLite · Retrofit · WorkManager · PHP · MySQL
 
-## 📫 Contact
+## Current focus
 
-- GitHub: [ERMI2112](https://github.com/ERMI2112)  
-- Email: ermia926@gmail.com
-- LinkedIn: www.linkedin.com/in/ermiasdesta-it
+- Developing EthioTour National's architecture and backend foundations.
+- Strengthening authentication, authorization, API design, and automated testing.
+- Deepening my cybersecurity and networking knowledge through practical labs.
 
-If you’re interested in collaborating, mentoring, or just talking about technology, feel free to reach out.  
-I’m always open to learning, sharing ideas, and building something useful together.
+## How I work
+
+I turn requirements into manageable tasks, review the implementation against the brief, and test the user flow. I use AI development tools to support research, coding, and troubleshooting, with attention to understanding and verifying the result.
+
+## Let's connect
+
+I'm interested in **internships, junior developer opportunities, and project collaborations**, particularly in web development and backend engineering.
+
+- **Email:** [ermia926@gmail.com](mailto:ermia926@gmail.com)
+- **LinkedIn:** [Ermias Desta](https://www.linkedin.com/in/ermiasdesta-it)
+- **GitHub:** [@ERMI2112](https://github.com/ERMI2112)
